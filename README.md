@@ -1,6 +1,6 @@
 # ADHD EEG Data Extraction, TDA Processing and File Management
 
-This repository contains in-development MATLAB and Python scripts for use with
+This repository contains in-development MATLAB, Python and Bash scripts for use with
 a project comparing traditional correlation-based functional connectivity
 mapping of EEG data to topological data analysis (TDA) for the purposes of 
 classification (here, ADHD versus control subjects) and identifying useful
