@@ -13,5 +13,6 @@ features in the data.
 
 ## Contact
 Peter Mikulecky, pmikule1@asu.edu
+Amy Larilus, amylarilus@gmail.com
 
  
