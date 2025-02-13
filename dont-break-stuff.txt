@@ -1,3 +1,8 @@
-This is the fake file we are creating in order to learn how to use Git.
+This is the file we are creating in order to learn how to use Git.
 
-BTW, Amy is afraid of breaking stuff.
+BTW, Amy is really afraid of breaking stuff.
+
+:)
+:)
+:)
+
