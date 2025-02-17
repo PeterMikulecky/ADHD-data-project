@@ -19,7 +19,7 @@ ADHD and 60 controls. You can find the original raw EEG data here:
 EEG data can be collected from single, site-specific scalp sensors or cap-mounted
 arrays of varying sensor density. Sensor placements follow an international standard.
 The sensor montage used in this study follows the "10-20" standard, as shown here:
-![10-20 EEG Montage](https://github.com/PeterMikulecky/ADHD-data-project/blob/main/International_10-20_system_for_EEG.jpg)
+![10-20 EEG Montage](https://github.com/PeterMikulecky/ADHD-data-project/blob/main/10-20_system_for_EEG.jpg)
 
 ## Usage
 - Files for use within MATLAB are identified with the .m extension.
