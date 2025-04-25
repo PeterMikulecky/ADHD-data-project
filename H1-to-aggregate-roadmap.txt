@@ -1,0 +1,35 @@
+Starting materials:
+collection of csv files (H1 per subject):
+	three columns (sensor ID, birth, death)
+
+
+read in each H1 file:
+	extract from filename the subject ID = subject_ID
+	for each birth/death pair (per row), calculate death - birth = point_lifetime
+	filter for point_lifetime > 35 (heuristic based on visual inspection)
+	return filtered point set as: subject_ID, sensor ID, point_lifetime
+
+	append across loops to generate master list for all subjects
+
+
+summary stats:
+	how many points per sensor
+		by subject
+		by group
+		DECISION: aggregate or not multiple points per sensor
+			aggregate: simple analysis
+			disaggregate: decide how to cluster
+			return final set of categories (just by sensor or multiple points per sensor)
+
+	average and standard deviation of each category by group
+	distributions by sensor and by group
+	distribution of total by group
+
+	heat map of average point-lifetime by sensor by group
+
+hypothesis testing:
+	for both total distribution and sensor-wise distributions:
+		difference of two sample means (distribution control vs adhd)
+		KL divergence distribution control vs adhd
+	
+	
